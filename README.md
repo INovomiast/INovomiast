@@ -5,7 +5,7 @@ I'm a Junior Coder and Music Producer
 
 * 🌍  I'm based in Spain* 🖥️  See my portfolio at [Portafolio!](http://inovomiast.github.io/)
 * ✉️  You can contact me at [inovomiast@hotmail.com](mailto:inovomiast@hotmail.com)
-* 🚀  I'm currently working on [Kreate-CLI](http://inovomiast.github.io/kreate-cli)
+* 🚀  I'm currently working on [Kreate-CLI](http://inovomiast.github.io/kreate-cli) and [Better-Git-GUI](https://github.com/inovomiast/better-git-gui)
 * 🧠  I'm learning Python, Web Technology's and CyberSecurity
 * 🤝  I'm open to collaborating on different project's that encourage me to be a better dev!
 * ⚡  .... I like to be high!
